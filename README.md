@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a developer on a continuous learning journey, 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
+
 
 ### 📊 My GitHub Stats
 
@@ -43,12 +43,6 @@ Welcome to my GitHub profile! I'm a developer on a continuous learning journey, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirineZoghlami&layout=compact&theme=radical&hide=html,scss" alt="Top Languages" />
-</p>
-
-### 🚀 Most Used Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SirineZoghlami&repo=your-repo-name&theme=radical" alt="Most Used Repositories" />
 </p>
 
 ## 🔗 Connect with Me
